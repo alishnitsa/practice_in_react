@@ -1,0 +1,28 @@
+.container {
+   margin: 0 100px;
+}
+
+h1 {
+   font-size: 48px;
+}
+
+span, p, strong {
+   font-size: 18px;
+}
+
+.ToDoList__input {
+   height: 50px;
+   width: 250px;
+   font-size: 18px;
+}
+
+.ToDoList__input::placeholder {
+   font-size: 18px;
+}
+
+.ToDoList__button {
+   height: 50px;
+   width: 150px;
+   font-size: 18px;
+   border-radius: 5%;
+}
